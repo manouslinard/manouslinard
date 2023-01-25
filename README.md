@@ -1,14 +1,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <br>
-        <img src="https://minimalistic-wallpaper.demolab.com/?random" />
-        <br><br>
-        <samp><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=3000&color=0ACF14&center=true&background=2A2A2A&vCenter=true&lines=Hey+There%2C+I+am+Manousos+Linardakis!;%5B+And+welcome+to+my+profile+%3AD+%5D" alt="Typing SVG" />
-        <br><br>
+        <samp><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=3000&color=0ACF14&center=true&vCenter=true&lines=Hey+There%2C+I+am+Manousos+Linardakis!;%5B+And+welcome+to+my+profile+%3AD+%5D" alt="Typing SVG" /></a>
         </samp>
 </h3>
 <p align="center">
         <!-- Organisation  -->
+        <samp>
+            <br>
+        </samp>
         <img alt="Python"
           src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img alt="Java"
@@ -57,14 +57,14 @@
 ❤️ &emsp;Love to write code and learn new features<br/><br/>
 📧 &emsp;Reach me anytime: manouslinard@gmail.com<br/><br/>
 💬 &emsp;Ask me about anything [here](https://github.com/manouslinard/manouslinard/issues)
-<br>
+<br></br>
 
-<br>
 <p align="center">
       <a href="https://linkedin.com/in/manouslinard" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="manouslinard"/></a><a href="https://www.youtube.com/channel/UCzpvHiiqjEdic4UtRALX5tQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a><a href="https://www.instagram.com/linard_art/" target="_blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="manouslinard" /></a><a href="https://play.unity.com/u/manlinard02" target="_blank"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="manouslinard" /></a> 
 </p>
 
-<br>
+
+<p><br></p>
 
     
 </details>
