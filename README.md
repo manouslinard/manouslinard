@@ -59,7 +59,7 @@
 💬 &emsp;Ask me about anything [here](https://github.com/manouslinard/manouslinard/issues)
 <br></br>
 
-<img align="left" src="https://minimalistic-wallpaper.demolab.com/?random" width=300 />
+<img src="https://minimalistic-wallpaper.demolab.com/?random" />
 
 <br>
 <p align="center">
