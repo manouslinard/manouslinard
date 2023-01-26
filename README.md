@@ -110,7 +110,7 @@
     <summary><h2>📈 Statistics</h2></summary>
     <br />
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manouslinard&no-bg=false&no-frame=true&margin-w=5&title=PR,Repositories,Commits,Stars&theme=discord&column=4" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=manouslinard&no-bg=true&no-frame=true&margin-w=5&title=PR,Repositories,Commits,Stars&theme=discord&column=4" alt="Trophies">
   <br><br>
   <a href="https://github.com/manouslinard"><img alt="Manouslinard Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=manouslinard&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49.5%"/></a>
   <a href="https://github.com/manouslinard"><img alt="Manouslinard Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=manouslinard&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49.5%"/></a>
