@@ -1,12 +1,21 @@
 <!-- Intro  -->
-<h3 align="center">
-<div style="position: relative;">
-    <img src="https://minimalistic-wallpaper.demolab.com/?random">
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=3000&color=0ACF14&center=true&background=2A2A2A&vCenter=true&lines=Hey+There%2C+I+am+Manousos+Linardakis!;%5B+And+welcome+to+my+profile+%3AD+%5D" style="z-index: 1;">
-    </div>
-</div>
-</h3>
+<html>
+<head>
+    <style>
+    body {
+        background-image: url("https://minimalistic-wallpaper.demolab.com/?random");
+        background-size: cover;
+        background-position: center;
+    }
+    </style>
+</head>
+<body>
+    <center>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=3000&color=0ACF14&center=true&background=2A2A2A&vCenter=true&lines=Hey+There%2C+I+am+Manousos+Linardakis!;%5B+And+welcome+to+my+profile+%3AD+%5D" width="50%">
+    </center>
+</body>
+</html>
+
 <p align="center">
         <!-- Organisation  -->
         <samp>
