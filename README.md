@@ -2,12 +2,11 @@
 <h3 align="center">
         <br>
         <div style="position: relative;">
-          <img src="https://minimalistic-wallpaper.demolab.com/?random" style="z-index: 1;" width=80%>
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=3000&color=0ACF14&center=true&background=2A2A2A&vCenter=true&lines=Hey+There%2C+I+am+Manousos+Linardakis!;%5B+And+welcome+to+my+profile+%3AD+%5D" alt="Typing SVG" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 0;">
+            <img src="https://minimalistic-wallpaper.demolab.com/?random" width=80%>
+            <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+                <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=3000&color=0ACF14&center=true&background=2A2A2A&vCenter=true&lines=Hey+There%2C+I+am+Manousos+Linardakis!;%5B+And+welcome+to+my+profile+%3AD+%5D" style="z-index: 1;">
+            </div>
         </div>
-        <!-- <img src="https://minimalistic-wallpaper.demolab.com/?random" />
-        <samp><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=3000&color=0ACF14&center=true&background=2A2A2A&vCenter=true&lines=Hey+There%2C+I+am+Manousos+Linardakis!;%5B+And+welcome+to+my+profile+%3AD+%5D" alt="Typing SVG" />
-        </samp> -->
 </h3>
 <p align="center">
         <!-- Organisation  -->
