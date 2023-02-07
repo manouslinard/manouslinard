@@ -60,7 +60,7 @@
 <br></br>
 
 <p align="center">
-      <a href="https://linkedin.com/in/manouslinard" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="manouslinard"/></a><a href="https://www.youtube.com/channel/UCzpvHiiqjEdic4UtRALX5tQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a><a href="https://www.instagram.com/linard_art/" target="_blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="manouslinard" /></a><a href="https://play.unity.com/u/manlinard02" target="_blank"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="manouslinard" /></a> 
+      <a href="https://manouslinard.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a><a href="https://linkedin.com/in/manouslinard" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="manouslinard"/></a><a href="https://www.youtube.com/channel/UCzpvHiiqjEdic4UtRALX5tQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a><a href="https://www.instagram.com/linard_art/" target="_blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="manouslinard" /></a><a href="https://play.unity.com/u/manlinard02" target="_blank"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="manouslinard" /></a> 
 </p>
 
 
