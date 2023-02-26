@@ -39,6 +39,8 @@
           src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
         <img alt="Android"
           src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+        <img alt="Azure"
+          src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
         <img alt="Linux"
           src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
