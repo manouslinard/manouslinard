@@ -79,6 +79,7 @@
   <p align="center">
     <a href="https://github.com/manouslinard/dist_sys_2022" target="_blank"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manouslinard&repo=dist_sys_2022&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&hide_border=false&show_icons=true" alt="fossbot"></a>
     <a href="https://github.com/manouslinard/manouslinard.github.io" target="_blank"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manouslinard&repo=manouslinard.github.io&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&hide_border=false&show_icons=true" alt="fossbot_source"></a>
+    <a href="https://github.com/manouslinard/bluetooth-car" target="_blank"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manouslinard&repo=bluetooth-car&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&hide_border=false&show_icons=true" alt="python_orcl_db"></a>
     <a href="https://github.com/manouslinard/python_orcl_db" target="_blank"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manouslinard&repo=python_orcl_db&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&hide_border=false&show_icons=true" alt="python_orcl_db"></a>
   </p>
 
