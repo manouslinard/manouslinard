@@ -80,7 +80,7 @@
     <summary><h2>📘 Top Projects</h2></summary>
 
 <br/>
-  <p align="center">
+  <p align="left">
     <a href="https://github.com/manouslinard/smart-city-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manouslinard&repo=smart-city-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="physics_hackathon"></a>
     <a href="https://github.com/manouslinard/dist_sys_2022"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manouslinard&repo=dist_sys_2022&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="dist sys"></a>
     <a href="https://github.com/manouslinard/music-recommender"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manouslinard&repo=music-recommender&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="music recommender"></a>
@@ -102,7 +102,7 @@
     <summary><h2>📕 Top Contributions</h2></summary>
 
 <br/>
-  <p align="center">
+  <p align="left">
     <a href="https://github.com/eellak/fossbot-web-simulator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eellak&repo=fossbot-web-simulator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="GSoC 2023"></a>
     <a href="https://github.com/eellak/fossbot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eellak&repo=fossbot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="fossbot"></a>
     <a href="https://github.com/chronis10/fossbot_source"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=chronis10&repo=fossbot_source&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="fossbot_source"></a>
