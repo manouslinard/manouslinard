@@ -95,6 +95,7 @@
 
 <br/>
   <p align="center">
+    <a href="https://github.com/eellak/fossbot-web-simulator" target="_blank"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eellak&repo=fossbot-web-simulator&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&hide_border=false&show_icons=true" alt="GSoC 2023"></a>
     <a href="https://github.com/eellak/fossbot" target="_blank"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eellak&repo=fossbot&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&hide_border=false&show_icons=true" alt="fossbot"></a>
     <a href="https://github.com/chronis10/fossbot_source" target="_blank"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chronis10&repo=fossbot_source&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&hide_border=false&show_icons=true" alt="fossbot_source"></a>
     <a href="https://github.com/chronis10/fossbot_simulator" target="_blank"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chronis10&repo=fossbot_simulator&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&hide_border=false&show_icons=true" alt="fossbot_simulator"></a>
@@ -116,8 +117,7 @@
   <br><br>
   <a href="https://github.com/manouslinard"><img alt="Manouslinard Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=manouslinard&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49.5%"/></a>
   <a href="https://github.com/manouslinard"><img alt="Manouslinard Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=manouslinard&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49.5%"/></a>
-  <br><br>
-  <a href="https://github.com/manouslinard"><img alt="Manouslinard Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=manouslinard&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
+  <br>
 </p>
 </details>
 
