@@ -100,11 +100,11 @@
     <summary><h2>📕 Top Contributions</h2></summary>
 
 <br/>
-  <p align="center">
-    <a href="https://github.com/eellak/fossbot-web-simulator" target="_blank"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eellak&repo=fossbot-web-simulator&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&hide_border=false&show_icons=true" alt="GSoC 2023"></a>
-    <a href="https://github.com/eellak/fossbot" target="_blank"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eellak&repo=fossbot&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&hide_border=false&show_icons=true" alt="fossbot"></a>
-    <a href="https://github.com/chronis10/fossbot_source" target="_blank"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chronis10&repo=fossbot_source&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&hide_border=false&show_icons=true" alt="fossbot_source"></a>
-    <a href="https://github.com/chronis10/fossbot_simulator" target="_blank"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chronis10&repo=fossbot_simulator&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&hide_border=false&show_icons=true" alt="fossbot_simulator"></a>
+  <p align="left">
+    <a href="https://github.com/eellak/fossbot-web-simulator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eellak&repo=fossbot-web-simulator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="GSoC 2023"></a>
+    <a href="https://github.com/eellak/fossbot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eellak&repo=fossbot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="fossbot"></a>
+    <a href="https://github.com/chronis10/fossbot_source"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=chronis10&repo=fossbot_source&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="fossbot_source"></a>
+    <a href="https://github.com/chronis10/fossbot_simulator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chronis10&repo=fossbot_simulator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="fossbot_simulator"></a>
   </p>
 
   <p align="left">
