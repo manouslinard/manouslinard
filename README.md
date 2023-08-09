@@ -43,6 +43,10 @@
           src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
         <img alt="Linux"
           src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+        <img alt="SpringBoot"
+          src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+        <img alt="Django"
+          src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </p>
 
 ---
@@ -55,7 +59,7 @@
 <a href="https://play.unity.com/mg/other/webgl-build-253" target="_blank">
 <img align="right" width="180" src="/assets/panda.png" alt="Panda png" title="Artwork by Manousos Linardakis"/></a>
 
-🧑‍🎓 &emsp;Undergraduate student [@HUA](https://www.hua.gr/index.php/el/) <br/><br/>
+🧑‍🎓 &emsp;Undergraduate student at [Department of Informatics and Telematics](https://dit.hua.gr/index.php/en/), Harokopio University of Athens. <br/><br/>
 ❤️ &emsp;Love to write code and learn new features<br/><br/>
 💬 &emsp;Ask me about anything [here](https://github.com/manouslinard/manouslinard/issues)
 <br></br>
