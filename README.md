@@ -131,7 +131,7 @@
 <!-- END YOUTUBE-CARDS -->
 
 <p align="left">
-  <a href="https://www.youtube.com/@manouslinard"><img alt="View Channel" title="View Channel" src="https://custom-icon-badges.demolab.com/badge/-View%20Channel-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  <a href="https://www.youtube.com/@manouslinard"><img alt="View Channel" title="View Channel" src="https://custom-icon-badges.demolab.com/badge/-View%20Channel-1F222E?style=for-the-badge&logoColor=white&logo=device-camera-video"/></a>
 </p>
 
 </details>
