@@ -118,6 +118,17 @@
 ---
 
 <details>
+    <summary><h2>▶️ Latest Videos</h2></summary>
+    <br />
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+</details>
+
+---
+
+<details>
     <summary><h2>📈 Statistics</h2></summary>
     <br />
 <p align="center">
