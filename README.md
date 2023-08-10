@@ -130,6 +130,10 @@
 [![Farewell - Manousos Linardakis](https://ytcards.demolab.com/?id=FKfCIBtz6EY&title=Farewell+-+Manousos+Linardakis&lang=en&timestamp=1666429681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "Farewell - Manousos Linardakis")](https://www.youtube.com/watch?v=FKfCIBtz6EY)
 <!-- END YOUTUBE-CARDS -->
 
+<p align="left">
+  <a href="https://www.youtube.com/@manouslinard"><img alt="View Channel" title="View Channel" src="https://custom-icon-badges.demolab.com/badge/-View%20Channel-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
+</p>
+
 </details>
 
 ---
