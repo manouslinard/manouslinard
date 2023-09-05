@@ -47,6 +47,8 @@
           src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
         <img alt="Django"
           src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+        <img alt="Flask"
+          src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </p>
 
 ---
