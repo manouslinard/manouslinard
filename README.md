@@ -83,6 +83,7 @@
 
 <br/>
   <p align="left">
+    <a href="https://github.com/manouslinard/datascience-ml-hua"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manouslinard&repo=datascience-ml-hua&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ds_ml_hua"></a>
     <a href="https://github.com/manouslinard/smart-city-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manouslinard&repo=smart-city-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="physics_hackathon"></a>
     <a href="https://github.com/manouslinard/dist_sys_2022"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manouslinard&repo=dist_sys_2022&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="dist sys"></a>
     <a href="https://github.com/manouslinard/music-recommender"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manouslinard&repo=music-recommender&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="music recommender"></a>
