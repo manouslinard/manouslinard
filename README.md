@@ -125,7 +125,12 @@
     <br />
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Fossbot Web Simulator - Google Summer of Code 2023](https://ytcards.demolab.com/?id=PzgRiEij-f4&title=Fossbot+Web+Simulator+-+Google+Summer+of+Code+2023&lang=en&timestamp=1691565332&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fossbot Web Simulator - Google Summer of Code 2023")](https://www.youtube.com/watch?v=PzgRiEij-f4)
+[![Smart City App Showcase](https://ytcards.demolab.com/?id=Vl41Rlwa7sM&title=Smart+City+App+Showcase&lang=en&timestamp=1686381821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Smart City App Showcase")](https://www.youtube.com/watch?v=Vl41Rlwa7sM)
+[![Arduino Bluetooth Car with Custom Android App](https://ytcards.demolab.com/?id=0rnHf80PrvE&title=Arduino+Bluetooth+Car+with+Custom+Android+App&lang=en&timestamp=1682148504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Arduino Bluetooth Car with Custom Android App")](https://www.youtube.com/watch?v=0rnHf80PrvE)
+[![Distributed Systems Assignment: Cloud Showcase](https://ytcards.demolab.com/?id=MKoX_YZdJ6A&title=Distributed+Systems+Assignment%3A+Cloud+Showcase&lang=en&timestamp=1677413941&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Distributed Systems Assignment: Cloud Showcase")](https://www.youtube.com/watch?v=MKoX_YZdJ6A)
+[![Fossbot Showcase - September 2022](https://ytcards.demolab.com/?id=7aDkDnegz4Y&title=Fossbot+Showcase+-+September+2022&lang=en&timestamp=1666430999&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fossbot Showcase - September 2022")](https://www.youtube.com/watch?v=7aDkDnegz4Y)
+[![Farewell - Manousos Linardakis](https://ytcards.demolab.com/?id=FKfCIBtz6EY&title=Farewell+-+Manousos+Linardakis&lang=en&timestamp=1666429681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Farewell - Manousos Linardakis")](https://www.youtube.com/watch?v=FKfCIBtz6EY)
 <!-- END YOUTUBE-CARDS -->
 
 <p align="left">
