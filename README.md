@@ -83,6 +83,7 @@
 
 <br/>
   <p align="left">
+    <a href="https://github.com/manouslinard/multiagent-exploration"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manouslinard&repo=multiagent-exploration&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="multiagent_exploration"></a>
     <a href="https://github.com/manouslinard/datascience-ml-hua"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manouslinard&repo=datascience-ml-hua&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ds_ml_hua"></a>
     <a href="https://github.com/manouslinard/smart-city-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manouslinard&repo=smart-city-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="physics_hackathon"></a>
     <a href="https://github.com/manouslinard/dist_sys_2022"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manouslinard&repo=dist_sys_2022&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="dist sys"></a>
@@ -90,8 +91,6 @@
     <a href="https://github.com/manouslinard/hackathon-driver-distr"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manouslinard&repo=hackathon-driver-distr&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="hackathon_driver"></a>
     <a href="https://github.com/manouslinard/bluetooth-car"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manouslinard&repo=bluetooth-car&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="bluetooth-car"></a>
     <a href="https://github.com/manouslinard/manouslinard.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manouslinard&repo=manouslinard.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="webportfolio"></a>
-    <a href="https://github.com/manouslinard/python-webscraper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=manouslinard&repo=python-webscraper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="python-webscraper"></a>
-    <a href="https://github.com/manouslinard/python_orcl_db"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manouslinard&repo=python_orcl_db&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="python_orcl_db"></a>
   </p>
 
   <a href="https://github.com/manouslinard?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
