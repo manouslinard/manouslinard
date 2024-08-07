@@ -1,7 +1,7 @@
 name: GitHub Readme YouTube Cards
 on:
   schedule:
-    # Runs every hour, on the hour
+    # Runs at 00:00 on the 1st day of every month
     - cron: "0 0 1 * *"
   workflow_dispatch:
 
