@@ -68,7 +68,7 @@
 
 <p align="center">
       <a href="https://manouslinard.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a><a href="mailto: manouslinard@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://linkedin.com/in/manouslinard" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="manouslinard"/></a>
-      <a href="https://scholar.google.com/citations?user=DgpNAI0AAAAJ&hl=el" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=for-the-badge" alt="scholar"/></a><a href="https://www.youtube.com/channel/UCzpvHiiqjEdic4UtRALX5tQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a><a href="https://play.unity.com/u/manlinard02" target="_blank"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="manouslinard" /></a> 
+      <a href="https://scholar.google.com/citations?user=DgpNAI0AAAAJ&hl=el" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=for-the-badge" alt="scholar"/></a><a href="https://www.youtube.com/channel/UCzpvHiiqjEdic4UtRALX5tQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 
