@@ -62,7 +62,7 @@
 <img align="right" width="180" src="/assets/panda.png" alt="Panda png" title="Artwork by Manousos Linardakis"/></a>
 
 🧑‍🎓 &emsp;Graduate student of [Department of Informatics and Telematics](https://dit.hua.gr/index.php/en/), Harokopio University of Athens. <br/><br/>
-❤️ &emsp;Love data science and learn new features<br/><br/>
+❤️ &emsp;Love data science and learning new features<br/><br/>
 💬 &emsp;Ask me about anything [here](https://github.com/manouslinard/manouslinard/issues)
 <br></br>
 
